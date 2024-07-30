@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi!👋 My name is Apple L. Donato, aka <font color="purple">@itgrl4pl</font></h2>
+<h2 align="left">Hi!👋 My name is Apple L. Donato, aka <font color="purple";>@itgrl4pl</font></h2>
 
 ###
 
