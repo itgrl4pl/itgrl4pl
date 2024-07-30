@@ -1,28 +1,16 @@
 <br clear="both">
-
-<h2 align="left">Hi!👋 My name is Apple L. Donato, aka <font color="purple";>@itgrl4pl</font></h2>
-
+<h2 align="left">Hi!👋 My name is Apple L. Donato, aka <font color="violet">@itgrl4pl</font></h2>
 ###
-
 <h6 align="left">currently studying at <a href="https://seait-edu.ph/index.php"><font color="green">South East Asian Institute Of Technology</font></a></h6>
-
 ###
 <p align="left"><b>• 🔭 I’m looking forward on collaborating with Software Developers, Cybersecurity Enthusiasts and Data Analysts<br>• 📚 I'm currently seeking for Mentors and Remote Internships to help guide me in developing my skills</b></p>
-
 <img align="left" height="150" src="https://media.tenor.com/2wmcMp6-K_AAAAAj/new-jeans-faster.gif"  />
-
 ###
-
 <img src="https://raw.githubusercontent.com/itgrl4pl/itgrl4pl/output/snake.svg" alt="Snake animation" align="right" width="750" />
-
 ###
-
 <br clear="both">
-
 <h3 align="left" margin-bottom="0"> &#127760;  Connect with me:</h3>
-
 ###
-
 <div align="left">
   <a href="https://www.facebook.com/apple.donato99" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="41" height="37" alt="facebook logo"  />
@@ -37,7 +25,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="49" height="37" alt="gmail logo"  /> 
 </a>
 </div>
-
 
 ###
 <br clear="both">
