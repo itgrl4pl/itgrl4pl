@@ -8,11 +8,11 @@
 ###
 <p align="left"><b>• 🔭 I’m looking forward on collaborating with Software Developers, Cybersecurity Enthusiasts and Data Analysts<br>• 📚 I'm currently seeking for Mentors and Remote Internships to help guide me in developing my skills</b></p>
 
-<img align="left" height="150" src="https://media.tenor.com/2wmcMp6-K_AAAAAj/new-jeans-faster.gif"  />
+<img align="left" height="143" src="https://media.tenor.com/2wmcMp6-K_AAAAAj/new-jeans-faster.gif"  />
 
 ###
 
-<img src="https://raw.githubusercontent.com/itgrl4pl/itgrl4pl/output/snake.svg" alt="Snake animation" align="right" height="143" />
+<img src="https://raw.githubusercontent.com/itgrl4pl/itgrl4pl/output/snake.svg" alt="Snake animation" align="right" height="150" />
 
 
 ###
