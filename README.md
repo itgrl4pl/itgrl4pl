@@ -8,12 +8,10 @@
 <p align="left"><b>• 🔭 I’m looking forward on collaborating with Software Developers, Cybersecurity and Data Analysts<br>• 📚 I'm currently seeking for Mentors and Remote Internships to help guide me in developing my skills<br>• 🖥️ I'm fascinated in signing up for Webinars, Tech Communities, Cybersecurity Conferences and Developer Gatherings </b></p>
 
 ###
-
-<img align="left" height="138" src="https://media.tenor.com/2wmcMp6-K_AAAAAj/new-jeans-faster.gif"  />
+<img align="left" height="144" src="https://media.tenor.com/2wmcMp6-K_AAAAAj/new-jeans-faster.gif"  />
 
 ###
-
-<img src="https://raw.githubusercontent.com/itgrl4pl/itgrl4pl/output/snake.svg" alt="Snake animation" align="right" height="150" />
+<img src="https://raw.githubusercontent.com/itgrl4pl/itgrl4pl/output/snake.svg" alt="Snake animation" align="right" height="151" />
 
 
 ###
