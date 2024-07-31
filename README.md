@@ -5,7 +5,7 @@
 <img align="right" height="140" grid-gap="0" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" />
 
 ###
-<p align="left"><b>• 🔭 I’m looking forward on collaborating with Software Developers, Cybersecurity and Data Analysts<br>• 📚 I'm currently seeking for Mentors and Remote Internships to help guide me in developing my skills<br>• 🖥️ I'm fascinated in signing up for Webinars, Tech Communities, Cybersecurity Conferences and Developer Gatherings </b></p>
+<p align="left"><b>• 🔭 I’m looking forward on collaborating with Software Developers, Cybersecurity and Data Analysts<br>• 📚 I'm currently seeking for Mentors and Remote Internships to help guide me in developing my skills<br>• 🖥️ I'm fascinated in signing up for Free Webinars, Cybersecurity Conferences and Developer Gatherings <br>• 🌐 I would love to connect and get to know more from people working in the Tech Industry</b></p>
 
 ###
 <img align="left" height="143" src="https://media.tenor.com/2wmcMp6-K_AAAAAj/new-jeans-faster.gif"  />
