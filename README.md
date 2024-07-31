@@ -5,7 +5,7 @@
 
 <h4 align="left">currently studying at <a href="https://seait-edu.ph/index.php"><ins>South East Asian Institute Of Technology</ins></span></a></h4>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&pause=900&color=B60EF7&width=435&lines=%2F%2FStudent;%2F%2FTech+Junkie;%2F%2FCybersecurity+Enthusiastt;%2F%2FIoT+Aficionado;%2F%2FCTF+Player" alt="Typing SVG" /></a>&nbsp;
-<p align="left"><b>• 🔭 I’m looking forward on collaborating with Software Devs, Cybersecurity Enthusiasts and Data Analysts<br>• 📚 I'm currently seeking for Mentors and Remote Internships to help guide me in developing my skills<br>• 🖥️ I'm fascinated in signing up for Webinars, Tech Communities, Cybersecurity Conferences and Developer Gatherings </b></p>
+<p align="left"><b>• 🔭 I’m looking forward on collaborating with Software Developers, Cybersecurity and Data Analysts<br>• 📚 I'm currently seeking for Mentors and Remote Internships to help guide me in developing my skills<br>• 🖥️ I'm fascinated in signing up for Webinars, Tech Communities, Cybersecurity Conferences and Developer Gatherings </b></p>
 
 ###
 
