@@ -1,9 +1,8 @@
 <h1 align="left">Hi!👋 My name is Apple L. Donato, aka <code style="color: purple"><a href="https://ko-fi.com/itgrl4pl">itgrl4pl</a></code></h1>
+<h4 align="left" grid-gap="0">currently studying at <a href="https://seait-edu.ph/index.php"><strong>South East Asian Institute Of Technology</strong></a></h4>
 
 ###
-
-<h4 align="left" margin="0" padding="0">currently studying at <a href="https://seait-edu.ph/index.php">South East Asian Institute Of Technology</a></h4>
-<img align="right" height="130" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" />
+<img align="right" height="130" grid-gap="0" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" />
 
 ###
 <p align="left"><b>• 🔭 I’m looking forward on collaborating with Software Developers, Cybersecurity and Data Analysts<br>• 📚 I'm currently seeking for Mentors and Remote Internships to help guide me in developing my skills<br>• 🖥️ I'm fascinated in signing up for Webinars, Tech Communities, Cybersecurity Conferences and Developer Gatherings </b></p>
