@@ -1,8 +1,9 @@
-<h1 align="left">Hi!👋 My name is Apple L. Donato, aka <ins>itgrl4pl</ins></h1>
+<h1 align="left">Hi!👋 My name is Apple L. Donato, aka <code style="color🟣"><a href="https://ko-fi.com/itgrl4pl">itgrl4pl</a></code></h1>
+<img align="right" height="133" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" />
 
 ###
 
-<h6 align="left">currently studying at <a href="https://seait-edu.ph/index.php">South East Asian Institute Of Technology</span></a></h6>
+<h4 align="left">currently studying at <a href="https://seait-edu.ph/index.php"><ins>South East Asian Institute Of Technology</ins></span></a></h4>
 
 ###
 <p align="left"><b>• 🔭 I’m looking forward on collaborating with Software Developers, Cybersecurity Enthusiasts and Data Analysts<br>• 📚 I'm currently seeking for Mentors and Remote Internships to help guide me in developing my skills</b></p>
@@ -12,6 +13,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/itgrl4pl/itgrl4pl/output/snake.svg" alt="Snake animation" align="right" height="143" />
+
 
 ###
 
@@ -108,5 +110,14 @@ education: ["Bachelor's in Information Technology"]
 fields_of_interests: ["Reverse Engineering", "Penetration Testing", "Network Security", "Binary Exploitation", 
                       "Cryptography", "Frontend Software Development", "Embedded Systems", "Data Analytics"]
 hobbies: ["Coding", "Competitive Gaming", "IoT", "F1 Racing"]
-
 ```
+---
+ ### ☕Care to buy me a coffee? you can donate thru:
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/itgrl4pl) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/itgrl4pl) 
+### 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+<span align="center">[![](https://visitcount.itsvg.in/api?id=itgrl4pl&icon=9&color=3)](https://visitcount.itsvg.in)</span>
+
+
