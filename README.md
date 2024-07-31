@@ -12,7 +12,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/itgrl4pl/itgrl4pl/output/snake.svg" alt="Snake animation" align="right" height="158" />
+<img src="https://raw.githubusercontent.com/itgrl4pl/itgrl4pl/output/snake.svg" alt="Snake animation" align="right" height="155" />
 
 
 ###
