@@ -1,10 +1,6 @@
 <h1 align="left">Hi!👋 My name is Apple L. Donato, aka <code style="color: purple"><a href="https://ko-fi.com/itgrl4pl">itgrl4pl</a></code></h1>
 <img align="right" height="130" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" />
-
-### 
-
-<h4 align="left" margin-bottom="2">currently studying at <a href="https://seait-edu.ph/index.php"><ins>South East Asian Institute Of Technology</ins></span></a></h4>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&pause=900&color=B60EF7&width=435&lines=%2F%2FStudent;%2F%2FTech+Junkie;%2F%2FCybersecurity+Enthusiastt;%2F%2FIoT+Aficionado;%2F%2FCTF+Player" alt="Typing SVG" /></a>
+<h4 align="left">currently studying at <a href="https://seait-edu.ph/index.php"><ins>South East Asian Institute Of Technology</ins></span></a></h4>
 
 ###
 
@@ -105,6 +101,8 @@
 </div>
 
 ###
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=31&pause=1000&color=B60EF7&width=435&lines=%2F%2FStudent;%2F%2FTech+Junkie;%2F%2FCybersecurity+Enthusiast;%2F%2FIoT+Aficionado;%2F%2FCTF+Player" alt="Typing SVG" /></a>
+---
 ```python
 fullname: Apple L. Donato
 location: SOCCSKSARGEN, Philippines
