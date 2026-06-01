@@ -1,124 +1,34 @@
-<h1 align="left">Hi!👋 My name is Apple L. Donato, aka <code style="color: purple"><a href="https://ko-fi.com/itgrl4pl">itgrl4pl</a></code></h1>
-<h4 align="left" grid-gap="0">currently studying at <a href="https://seait-edu.ph/index.php"><strong>South East Asian Institute Of Technology</strong></a></h4>
+<h1>Apple L. Donato</h1>
+<h3>Business Analytics Specialist & Data Engineer</h3>
 
-###
-<img align="right" height="140" grid-gap="0" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" />
+<p align="left">
+  Building automated data cleaning pipelines, structural ETL frameworks, and interactive business intelligence systems to convert raw organizational assets into measurable economic leverage.
+</p>
 
-###
-<p align="left"><b>• 🔭 I’m looking forward on collaborating with Developers, Cybersecurity and Data Analysts<br>• 📚 I'm currently seeking for Mentors and Remote Internships to help guide me in developing my skills<br>• 🖥️ I'm fascinated in signing up for Free Webinars, Cybersecurity Conferences and Developer Gatherings <br>• 🌐 I would love to connect and get to know more from people working in the Tech Industry</b></p>
-
-###
-<img align="left" height="143" src="https://media.tenor.com/2wmcMp6-K_AAAAAj/new-jeans-faster.gif"  />
-
-###
-<img src="https://raw.githubusercontent.com/itgrl4pl/itgrl4pl/output/snake.svg" alt="Snake animation" align="right" height="150" />
-
-
-###
-
-<br clear="both">
-<img align="right" height="285" margin-left="20" src="https://media1.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif?cid=ecf05e47w363ybjra8b7m1nhrn6ychfy1iwfiqfmoig25nrc&rid=giphy.gif&ct=s"/>
-
-###
-
-<h3 align="left" margin-bottom="none"> &#127760;  Connect with me:</h3>
-
-###
-
-<div align="left" margin-top="none">
-  <a href="https://www.facebook.com/apple.donato99" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="41" height="37" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/malumxce" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="41" height="37" alt="instagram logo"  />
-</a>
-<a href="https://www.linkedin.com/in/apple-donato-8556b8320/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="37" alt="linkedin logo"  />
-</a>
-<a href="https://mail.google.com/mail/u/0/#search/la.apple.donato%40gmail.com?compose=new">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="49" height="37" alt="gmail logo"  /> 
-</a>
-</div>
-
-
-###
-
-###
-
-
-###
-
-<h3 align="left"> 👩‍💻 Languages and Tools:</h3>
-
-
-###
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="37" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="37" alt="c logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="37" alt="php logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="37" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="37" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="37" alt="github logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="37" alt="ssh logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="37" alt="android logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="37" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="37" alt="flutter logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="37" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="37" alt="pycharm logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="37" alt="figma logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="37" alt="wordpress logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="37" alt="apache logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="37" alt="androidstudio logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="37" alt="dart logo"  />
-</div>
-
-###
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=31&pause=1000&color=B60EF7&width=435&lines=%2F%2FStudent;%2F%2FTech+Junkie;%2F%2FCybersecurity+Enthusiast;%2F%2FIoT+Aficionado;%2F%2FCTF+Player" alt="Typing SVG" /></a>
----
-```python
-fullname: Apple L. Donato
-location: SOCCSKSARGEN, Philippines
-age: 19 
-pronuouns: she/her
-education: ["Bachelor's in Information Technology"]
-fields_of_interests: ["Reverse Engineering", "Penetration Testing", "Network Security", "Binary Exploitation", 
-                      "Cryptography", "Frontend Software Development", "Embedded Systems", "Data Analytics"]
-hobbies: ["Coding", "Competitive Gaming", "IoT", "F1 Racing"]
-```
----
- ### ☕Care to buy me a coffee? you can donate thru:
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/itgrl4pl) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/itgrl4pl) 
-### 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="left">
+  <a href="https://www.linkedin.com/in/apple-donato-8556b8320/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:la.apple.donato@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/itgrl4pl"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 ---
-<span align="center">[![](https://visitcount.itsvg.in/api?id=itgrl4pl&icon=9&color=3)](https://visitcount.itsvg.in)</span>
 
+## 📈 Core Architecture & Business Case Studies
 
+| Project | Core Stack | Business Impact & Operational Discovery |
+| :--- | :--- | :--- |
+| **[Retail Revenue Intelligence](https://github.com/itgrl4pl)** | `Power BI` `SQL` `Power Query` `ETL` | Engineered an automated transformation pipeline for a 30,000+ transaction matrix[cite: 3, 4]. Identified an unaddressed risk where a single product category drove 83% of total revenue, presenting supplier-diversification protocols to safeguard operational margins[cite: 3]. |
+| **[Predictive Customer Churn Ecosystem](https://github.com/itgrl4pl)** | `R` `randomForest` `arules` `ggplot2` | Constructed a behavioral RFM segmentation model evaluating 2,000+ active client accounts[cite: 3]. Deployed a tuned Random Forest classification model optimized via ROC/AUC to map churn patterns and protect customer lifetime value (LTV)[cite: 3]. |
+| **[Brand Sentiment Intelligence Engine](https://github.com/itgrl4pl)** | `R` `tidytext` `NLP` `Sentiment Analysis` | Formulated an end-to-end NLP data pipeline leveraging custom tokenization and Bing/NRC lexicons[cite: 3]. Structured unindexed text metrics into quantitative reputation dashboards for dynamic market trend tracking[cite: 3]. |
+
+---
+
+## 🛠️ Technical Capabilities & Tooling
+
+```text
+========================================================================================
+[Core Languages]      :: Python | R | SQL (MySQL, PostgreSQL)
+[Data Engineering]    :: ETL Pipelines | Data Normalization | Power Query | Pandas | NumPy
+[Business Analytics]  :: RFM Segmentation | Predictive Modeling | Market Basket Analysis
+[Systems & DevOps]    :: Git Version Control | Data Governance | Advanced Excel
+========================================================================================                                                                                                 
