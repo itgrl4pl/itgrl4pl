@@ -18,7 +18,7 @@
 | Project | Core Stack | Business Impact & Operational Discovery |
 | :--- | :--- | :--- |
 | **[Retail Revenue Intelligence](https://github.com/itgrl4pl)** | `Power BI` `SQL` `Power Query` `ETL` | Engineered an automated transformation pipeline for a 30,000+ transaction matrix[cite: 3, 4]. Identified an unaddressed risk where a single product category drove 83% of total revenue, presenting supplier-diversification protocols to safeguard operational margins[cite: 3]. |
-| **[Predictive Customer Churn Ecosystem](https://github.com/itgrl4pl)** | `R` `randomForest` `arules` `ggplot2` | Constructed a behavioral RFM segmentation model evaluating 2,000+ active client accounts[cite: 3]. Deployed a tuned Random Forest classification model optimized via ROC/AUC to map churn patterns and protect customer lifetime value (LTV). |
+| **[Predictive Customer Churn Ecosystem]([https://github.com/itgrl4pl](https://github.com/itgrl4pl/E-commerce-Machine-Learning-using-R))** | `R` `randomForest` `arules` `ggplot2` | Constructed a behavioral RFM segmentation model evaluating 2,000+ active client accounts[cite: 3]. Deployed a tuned Random Forest classification model optimized via ROC/AUC to map churn patterns and protect customer lifetime value (LTV). |
 | **[Brand Sentiment Intelligence Engine](https://github.com/itgrl4pl)** | `R` `tidytext` `NLP` `Sentiment Analysis` | Formulated an end-to-end NLP data pipeline leveraging custom tokenization and Bing/NRC lexicons[cite: 3]. Structured unindexed text metrics into quantitative reputation dashboards for dynamic market trend tracking. |
 
 ---
