@@ -13,7 +13,7 @@
 
 ---
 
-## 📈 Core Architecture & Business Case Studies
+## Core Architecture & Business Case Studies
 
 | Project | Core Stack | Business Impact & Operational Discovery |
 | :--- | :--- | :--- |
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Technical Capabilities & Tooling
+## Technical Capabilities & Tooling
 
 ```text
 ========================================================================================
